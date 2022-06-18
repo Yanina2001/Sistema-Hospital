@@ -1,6 +1,3 @@
-# Hospital Management
-![developer]
-
 ## CÓMO CORRER ESTE PROYECTO
 - Instala una versión de Python mayor a 3.7.1
 - Abre una terminal y ejecuta lo siguiente:
