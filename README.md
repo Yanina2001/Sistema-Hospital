@@ -1,5 +1,5 @@
 # Hospital Management
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
+![developer]
 
 ## CÓMO CORRER ESTE PROYECTO
 - Instala una versión de Python mayor a 3.7.1
